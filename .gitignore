@@ -25,7 +25,6 @@ MANIFEST
 # PyInstaller
 #  Often these around are not file-system legal
 *.manifest
-*.spec
 
 # Installer logs
 pip-log.txt
